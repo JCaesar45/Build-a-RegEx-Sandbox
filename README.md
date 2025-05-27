@@ -83,8 +83,7 @@ This project is open-source and free to use under the MIT License.
 
 ## Author
 
-Your Name — [your.email@example.com](mailto:your.email@example.com)
-
+Jordan Leturgez
 ---
 
 Feel free to contribute or suggest features!
